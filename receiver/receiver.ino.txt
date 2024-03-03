@@ -1,6 +1,6 @@
 /**
  * @file   receiver.ino
- * @Author Jacek Buski (kecajtop@gmail.com)
+ * @Author kecajtop (kecajtop@gmail.com)
  * @date   March, 2016
  * @brief  Brief description of file.
  * - WHAT IT DOES: Receives data from another transceiver with
